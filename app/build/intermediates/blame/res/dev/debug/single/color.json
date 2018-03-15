@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/design_error.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/kamal/.android/build-cache/02a62969764592c9d6cd9692a7660abccfa64cca/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/Kevin/.android/build-cache/df4b7bedf694cdc06e6b014d79b82ecdcb99393a/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_tint_edittext.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/design_error.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/df4b7bedf694cdc06e6b014d79b82ecdcb99393a/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/kamal/.android/build-cache/02a62969764592c9d6cd9692a7660abccfa64cca/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_tint_default.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_tint_spinner.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/df4b7bedf694cdc06e6b014d79b82ecdcb99393a/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/design_error.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/Kevin/.android/build-cache/df4b7bedf694cdc06e6b014d79b82ecdcb99393a/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_search_url_text.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_default.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_tint_spinner.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/kamal/.android/build-cache/02a62969764592c9d6cd9692a7660abccfa64cca/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/kamal/.android/build-cache/02a62969764592c9d6cd9692a7660abccfa64cca/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_tint_default.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_default.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/df4b7bedf694cdc06e6b014d79b82ecdcb99393a/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/kamal/.android/build-cache/02a62969764592c9d6cd9692a7660abccfa64cca/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/kamal/.android/build-cache/02a62969764592c9d6cd9692a7660abccfa64cca/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color/abc_search_url_text.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/design_error.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/df4b7bedf694cdc06e6b014d79b82ecdcb99393a/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color/abc_tint_edittext.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color/abc_tint_edittext.xml"
+    }
+]

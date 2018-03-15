@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/kamal/.android/build-cache/3197472d808d96ca32b623dbd0f1d699d091a997/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

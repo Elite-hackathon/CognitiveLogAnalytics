@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

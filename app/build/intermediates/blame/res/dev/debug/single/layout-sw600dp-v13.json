@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/kamal/.android/build-cache/c01f445b514c1c871aeac012671b396109469625/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

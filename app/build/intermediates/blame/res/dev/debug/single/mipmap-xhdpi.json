@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/round_corner_progress_icon.png",
+        "source": "/home/kamal/.android/build-cache/ad4cf0114aabe75bc23b1158feed80f389c545a9/output/res/mipmap-xhdpi/round_corner_progress_icon.png"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/round_corner_progress_icon.png",
+        "source": "/Users/Kevin/.android/build-cache/b87253e1c13e6a042c4e22f36be02a1004a8d122/output/res/mipmap-xhdpi/round_corner_progress_icon.png"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/round_corner_progress_icon.png",
+        "source": "/Users/Kevin/.android/build-cache/b87253e1c13e6a042c4e22f36be02a1004a8d122/output/res/mipmap-xhdpi/round_corner_progress_icon.png"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/Kevin/Documents/Android Projects/Speech/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/round_corner_progress_icon.png",
+        "source": "/home/kamal/.android/build-cache/ad4cf0114aabe75bc23b1158feed80f389c545a9/output/res/mipmap-xhdpi/round_corner_progress_icon.png"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

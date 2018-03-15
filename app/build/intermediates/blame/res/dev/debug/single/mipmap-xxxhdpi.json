@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Kevin/Documents/Android Projects/Speech/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/kamal/AndroidStudioProjects/CognitiveLogAnalytics/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/kamal/AndroidStudioProjects/speech_sentiment_analysis_android-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
