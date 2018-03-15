@@ -1,4 +1,4 @@
-# speech_sentiment_analysis_android
+# Cognitive Log Analytics based on Sentimental Analysis and Naturl Lnaguage Processing
 Android app which will convert speech into text and then perform a sentiment/classification analysis of the text.
 
 ### The generated result will contain 3 paramters - 
